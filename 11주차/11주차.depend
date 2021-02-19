@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605613485 source:c:\users\isheo\desktop\컴퓨터언어\c언어\공창컴\11주차\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1605612148 source:c:\users\isheo\desktop\컴퓨터언어\c언어\공창컴\11주차\유클리드호제법.c
+

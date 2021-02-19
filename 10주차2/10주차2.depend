@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605110615 source:c:\users\isheo\desktop\컴퓨터언어\c언어\공창컴\10주차2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
